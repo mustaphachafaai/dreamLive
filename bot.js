@@ -8,8 +8,9 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥`,"http://twitch.tv/HafidHimmi")
+client.user.setGame(`ŤĤĔ ČĤĨŃŴĨ Ď'Ź฿Ĩ ♥`,"http://twitch.tv/chinwi")
 client.user.setStatus("dnd")
+client.user.setsmall_image: `377480550207717376`,
 });
 
 client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
